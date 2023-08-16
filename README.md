@@ -1,4 +1,4 @@
-# cardapio-eletronico-pi3
+# Cardápio Digital 4.0
 Repositório do cardápio eletrônico 4.0, projeto de conclusão da disciplina de Projeto Integrador 3 do ETE Porto Digital.
 
 # Equipe do Projeto
