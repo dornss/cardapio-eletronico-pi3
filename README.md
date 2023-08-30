@@ -17,7 +17,7 @@ Estamos utilizando as seguintes metodologias ágeis para o desenvolvimento do pr
 
 Utilização do Trello com Kanban para acompanhar o projeto.
 
-Entrega de sprints semanares
+Entrega de sprints semanais.
 
 ## Gerenciamento do Projeto
 
